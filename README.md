@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dileeshana
-- 👀 I’m interested in AI, Robotics and networking  
+- 👀 I’m interested in Software Enginereeing, AI and Robotics  
 - 📫 How to reach me dileeshana2000@gmail.com
 
 <!---
